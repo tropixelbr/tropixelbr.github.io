@@ -1,0 +1,83 @@
+/**
+ * Common View Elements
+ */
+ 
+/* --- Views Field --- */
+.views-field {
+}
+
+.field-content {
+}
+
+/* Views Field Title */
+.views-field-title {
+}
+
+.views-field-title .field-content {
+  display: block;
+  font-weight: bold;
+  padding: 5px 0 0;
+}
+
+/* Views Field Image */
+.views-field-field-image {
+}
+
+.views-field-field-image .field-content {  
+}
+
+/* Views Field Body */
+.views-field-body {
+}
+
+.views-field-body .field-content {
+}
+
+/* Views Field Changed */
+.views-field-changed {
+}
+
+.views-field-changed .field-content {
+}
+
+/* --- Views Inline Grid --- */
+.views-row {
+}
+
+.views-row-odd {
+}
+
+.views-row-even {
+}
+
+.views-col {
+}
+
+.cols-1 .views-col {
+  width: 100%;
+}
+
+.cols-2 .views-col {
+  width: 50%;
+}
+
+.cols-3 .views-col {
+  width: 33.33%;
+}
+
+.cols-4 .views-col {
+  width: 25%;
+}
+
+.cols-5 .views-col {
+  width: 20%;
+}
+
+.cols-6 .views-col {
+  width: 16.66%;
+}
+
+/**
+ * Supported Views Formats
+ */
+.views-slideshow-controls-bottom .views-slideshow-pager-field-item { float: left; margin: 20px 6px; } 

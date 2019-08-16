@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://tropixel.ubalab.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Blog de lulaflei</title>
+ <link>http://tropixel.ubalab.org/pt-br/blogs/lulaflei</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Primeiro dia do Tropixel Ciência Aberta</title>
+ <link>http://tropixel.ubalab.org/pt-br/blog/primeiro-dia-do-tropixel-ci%C3%AAncia-aberta</link>
+ <description>&lt;div class=&quot;section field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item odd&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;/sites/tropixel.ubalab.org/files/images/IMG_2285peq.JPG&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Hoje iniciamos em Ubatuba as atividades do &lt;a href=&quot;http://tropixel.ubalab.org/pt-br/15-ciencia-aberta&quot;&gt;Tropixel Ciência Aberta&lt;/a&gt; com uma oficina de construção de hardware aberto para a realização de monitoramento ambiental. Ricardo Guima-San e Gina Leite apresentaram o projeto Rede InfoAmazônia de monitoramento participativo de qualidade da água.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;/sites/tropixel.ubalab.org/files/images/IMG_2275peq.JPG&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;
+O projeto Rede InfoAmazonia tem o objetivo de desenvolver o equipamento &lt;a href=&quot;http://publiclab.org/wiki/mae-d-agua-rede-infoamazonia&quot;&gt;Mãe d&#039;água&lt;/a&gt; e implementá-lo em comunidades urbanas de Santarém e Belterra, na APA Alter do Chão, na  Floresta Nacional do Tapajós e na Reserva Extrativista de Tapajós-Arapiuns no Oeste do Pará. O equipamento será capaz de produzir medições contínuas de indicadores físico-químicos para avaliar potabilidade da água. Os dados coletados serão enviados por SMS ou 2G para um servidor remoto. Através do site do projeto será possível ver os  gráficos e mapas de monitoramento e fazer download dos dados brutos. Além do site, os interessados poderão se cadastrar para receber alertas via SMS sobre a qualidade de água na região.&lt;/p&gt;
+&lt;p&gt;No site &lt;a href=&quot;http://www.infoamazonia.org&quot;&gt;InfoAmazonia&lt;/a&gt; é possível conhecer outras iniciativas que aliam ações de jornalismo de dados, ciência cidadã para colocar em pauta questões socioambientais.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;/sites/tropixel.ubalab.org/files/images/IMG_7025-mod-peq.JPG&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Logo após a apresentação, os participantes - muitos deles estudantes da&lt;a href=&quot;http://www.centropaulasouza.sp.gov.br/&quot;&gt; ETEC - Centro Paula Souza de Ubatuba &lt;/a&gt;- passaram a construir pequenos sensores que capazes de medir a condutividade elétrica da água. Em pequenos grupos cortamos, soldamos placas, fios, chips e plugs para montar os sensores que amanhã serão conectados a placas de prototipagem Arduino e computadores para que possamos calibra-los e testar a qualidade da água.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;/sites/tropixel.ubalab.org/files/images/IMG_7077-mod-peq.JPG&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Ouça o &lt;a href=&quot;https://archive.org/details/infoamazonia-tropixel-2015&quot;&gt;áudio da apresentação da Rede InfoAmazonia&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Todas as atividades do &lt;strong&gt;&lt;a href=&quot;http://tropixel.ubalab.org&quot;&gt;Tropixel&lt;/a&gt;&lt;/strong&gt; são gratuitas e abertas à comunidade. Confira a &lt;a href=&quot;http://tropixel.ubalab.org/pt-br/15-ciencia-aberta&quot;&gt;programação&lt;/a&gt; e participe!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;addtoany first last&quot;&gt;&lt;span&gt;&lt;span class=&quot;a2a_kit a2a_kit_size_32 a2a_target addtoany_list&quot; id=&quot;da2a_1&quot;&gt;
+      
+      &lt;a class=&quot;a2a_dd addtoany_share_save&quot; href=&quot;https://www.addtoany.com/share#url=http%3A%2F%2Ftropixel.ubalab.org%2Fpt-br%2Fblog%2Fprimeiro-dia-do-tropixel-ci%25C3%25AAncia-aberta&amp;amp;title=Primeiro%20dia%20do%20Tropixel%20Ci%C3%AAncia%20Aberta&quot;&gt;&lt;img src=&quot;/sites/all/modules/addtoany/images/share_save_171_16.png&quot; width=&quot;171&quot; height=&quot;16&quot; alt=&quot;Share/Save&quot;/&gt;&lt;/a&gt;
+      
+    &lt;/span&gt;
+    &lt;script type=&quot;text/javascript&quot;&gt;
+&lt;!--//--&gt;&lt;![CDATA[//&gt;&lt;!--
+if(window.da2a)da2a.script_load();
+//--&gt;&lt;!]]&gt;
+&lt;/script&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+ <pubDate>Tue, 02 Jun 2015 13:01:44 +0000</pubDate>
+ <dc:creator>lulaflei</dc:creator>
+ <guid isPermaLink="false">82 at http://tropixel.ubalab.org</guid>
+</item>
+</channel>
+</rss>
